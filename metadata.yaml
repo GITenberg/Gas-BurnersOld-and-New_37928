@@ -1,0 +1,30 @@
+_repo: Gas-BurnersOld-and-New_37928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merriman, Owen
+    gutenberg_agent_id: '39137'
+    url: http://www.gutenberg.org/2009/agents/39137
+description: ''
+gutenberg_issued: '2011-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gas-burners'
+- !lcc 'TH'
+tableOfContents: Introduction -- The first gas-burner -- The batswing burner -- The
+  union-jet or fishtail burner -- How light is produced from coal gas -- Improvements
+  in flat-flame burners -- Brönner's burners -- The hollow-top burner -- Bray's burners
+  -- Argand burners -- Sugg's Argands -- The Douglass burner -- Governor burners --
+  Regenerative burners -- Incandescent burners -- Conclusion.
+title: "Gas Burners Old and New\r\nA historical and descriptive treatise on the progress\
+  \ of invention in gas lighting, embracing an account of the theory of luminous combustion"
+url: http://www.gutenberg.org/ebooks/37928
